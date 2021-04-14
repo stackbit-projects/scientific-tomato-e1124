@@ -5,10 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: Costruiamo app in no-code
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      Costruiamo prodotti usando strumenti visuali e codice quando serve. 
+
+      Accorciamo i tempi di sviluppo e di test per app e webapp
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
